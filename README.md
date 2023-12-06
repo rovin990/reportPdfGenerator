@@ -31,6 +31,8 @@
 
 ## Rest follow code files
 
+![projectStructure](https://github.com/rovin990/reportPdfGenerator/assets/48690435/b2dc5ad1-6b27-4986-b390-cf230463aad4)
+
 
 
 
